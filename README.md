@@ -28,5 +28,3 @@ practical solutions that solve real-world problems.
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9zd2JuOGl2cjQxY3prOHFidzA4em4weGNnYzZ1M3MwZjhoeGw0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a64Ev4HWWv3KPQIGQJ/giphy.gif" width="400"/>
 
 ---
-
-![Snake animation](https://raw.githubusercontent.com/yashhK11/yashhK11/output/github-contribution-grid-snake-dark.svg)
