@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi viewer!
 
-<!--
-**yashhK11/yashhK11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yash, a passionate Web Developer   
+A passion for innovation and building drives me
+practical solutions that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yashhK11&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## 📫 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yashhkumarr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashk2888@gmail.com)
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/yashhK11/yashhK11/output/github-contribution-grid-snake-dark.svg)
